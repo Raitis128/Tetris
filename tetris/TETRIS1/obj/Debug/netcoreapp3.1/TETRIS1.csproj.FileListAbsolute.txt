@@ -1,0 +1,16 @@
+C:\Users\Jwen\Desktop\tetris\TETRIS1\bin\Debug\netcoreapp3.1\TETRIS1.exe
+C:\Users\Jwen\Desktop\tetris\TETRIS1\bin\Debug\netcoreapp3.1\TETRIS1.deps.json
+C:\Users\Jwen\Desktop\tetris\TETRIS1\bin\Debug\netcoreapp3.1\TETRIS1.runtimeconfig.json
+C:\Users\Jwen\Desktop\tetris\TETRIS1\bin\Debug\netcoreapp3.1\TETRIS1.runtimeconfig.dev.json
+C:\Users\Jwen\Desktop\tetris\TETRIS1\bin\Debug\netcoreapp3.1\TETRIS1.dll
+C:\Users\Jwen\Desktop\tetris\TETRIS1\bin\Debug\netcoreapp3.1\TETRIS1.pdb
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.csprojAssemblyReference.cache
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.Form1.resources
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.csproj.GenerateResource.cache
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.AssemblyInfoInputs.cache
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.AssemblyInfo.cs
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.csproj.CoreCompileInputs.cache
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.dll
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.pdb
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.genruntimeconfig.cache
+C:\Users\Jwen\Desktop\tetris\TETRIS1\obj\Debug\netcoreapp3.1\TETRIS1.Properties.Resources.resources

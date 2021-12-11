@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TETRIS1", "TETRIS1\TETRIS1.csproj", "{F2F8174C-0341-4EAF-8545-05A0BAD79906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F8174C-0341-4EAF-8545-05A0BAD79906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F8174C-0341-4EAF-8545-05A0BAD79906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F8174C-0341-4EAF-8545-05A0BAD79906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F8174C-0341-4EAF-8545-05A0BAD79906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC00B4B-D5D6-488A-AD16-0E5211D094A9}
+	EndGlobalSection
+EndGlobal
